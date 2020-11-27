@@ -1,5 +1,8 @@
 # Ice-Capades-Game
 
+## To Run ##
+Run the executable, Ice_Capades_Game.exe.
+
 ## Overview ##
 Ice Capades is a Pokemon-style inspired game that aims to teach players about the affects of climate change on the environment. You must pass through multiple levels, interact with objects, solve puzzles and avoid enemies in order to make your way to the oil rig that is causing the ice in your village to melt.
 
