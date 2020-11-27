@@ -11,9 +11,13 @@ Interact/collect objects. Walk into them.
 Altogether there are 5 levels.
 
 Level 1 - The cottage where you wake up and have the tutorial.
+
 Level 2 - The village outside, where you live.
+
 Level 3 - The forest outside the village (I seemed to have forgotten that Antarctica has no trees...).
+
 Level 4 - The underwater level, where you swim through to get to the oil rig.
+
 Level 5 - The oil rig.
 
 ![Alt text](Images/collage.png "Gameplay")
