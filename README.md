@@ -16,9 +16,7 @@ Level 3 - The forest outside the village (I seemed to have forgotten that Antarc
 Level 4 - The underwater level, where you swim through to get to the oil rig.
 Level 5 - The oil rig.
 
-![Alt text](Images/house.PNG "Gameplay")
-![Alt text](Images/level-1-village.PNG "Gameplay")
-![Alt text](Images/level-2-forest.PNG "Gameplay")
+![Alt text](Images/collage.png "Gameplay")
 
 ## Controls and Gameplay ##
 
