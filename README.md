@@ -1,4 +1,4 @@
-# Ice-Capades-Game
+# ice-capades
 
 ## To Run ##
 Run the executable, Ice_Capades_Game.exe.
