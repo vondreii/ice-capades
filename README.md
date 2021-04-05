@@ -33,4 +33,7 @@ Jump		  	| Spacebar
 Open/Close Menu | 'M' key
 Attack			| 'Z' key
 
+<br>
+<br>
+
 ![Alt text](Images/collage.png "Gameplay")
