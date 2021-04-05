@@ -1,10 +1,10 @@
 # ice-capades
 
+## About ##
+Ice Capades is a Pokemon-style inspired game that aims to teach players about the affects of climate change on the environment. You must pass through multiple levels, interact with objects, solve puzzles and avoid enemies in order to make your way to the oil rig that is causing the ice in your village to melt.
+
 ## To Run ##
 Run the executable, Ice_Capades_Game.exe.
-
-## Overview ##
-Ice Capades is a Pokemon-style inspired game that aims to teach players about the affects of climate change on the environment. You must pass through multiple levels, interact with objects, solve puzzles and avoid enemies in order to make your way to the oil rig that is causing the ice in your village to melt.
 
 ## Controls ##
 Walk. Left, right, up or down arrow keys.
@@ -23,8 +23,6 @@ Level 4 - The underwater level, where you swim through to get to the oil rig.
 
 Level 5 - The oil rig.
 
-![Alt text](Images/collage.png "Gameplay")
-
 ## Controls and Gameplay ##
 
 Action  	  	| Controls
@@ -34,3 +32,5 @@ Walk Right	  	| Right keyboard arrow or 'D'
 Jump		  	| Spacebar
 Open/Close Menu | 'M' key
 Attack			| 'Z' key
+
+![Alt text](Images/collage.png "Gameplay")
